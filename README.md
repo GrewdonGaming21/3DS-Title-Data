@@ -2,9 +2,9 @@
 
 Thank you for looking at my database
 
-The **`.cia`** files included in this repository are system apps. You may try to use them if you would like.
+**This is an Anti-piracy Database, you will not find roms here that aren't system apps' `.cia` file**
 
-**`GameBoy Advance Virtual Console`** **`.code`** files are just the original **`.gba`** file, therefore they will not be put here because this is an anti-piracy database.
+**`GameBoy Advance Virtual Console`** **`.code`** files are just the original **`.gba`** file.
 
 The **`.code`** files were extracted with [GodMode9](https://github.com/d0k3/GodMode9)
 
